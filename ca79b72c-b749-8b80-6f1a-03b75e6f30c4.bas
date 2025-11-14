@@ -13,3 +13,4 @@ END
 
 REM [Purpose]
 REM Use previous variables, expressions and values.
+REM Check the datatypes between the variables in & out
