@@ -1,4 +1,4 @@
-'REM Code to let enter 8 numbers into array, then search and print position of the higtest and lowest value registered into array.
+'REM Code to let enter 8 numbers into array, then search and print position of the highest and lowest value registered into array.
 
 DIM numbers(1 TO 8) AS INTEGER
 
